@@ -1,8 +1,0 @@
-{
-  "description": "Fact of the Day",
-  "facts": [
-    { "day": "1", "fact": "Curiosity killed the cat, but satisfaction brought it back." },
-    { "day": "2", "fact": "Knowledge is power." },
-    { "day": "3", "fact": "The early bird catches the worm." }
-  ]
-}
